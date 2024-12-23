@@ -28,3 +28,4 @@ C:\Users\Admin\source\repos\WebQLDASinhVien\WebQLDASinhVien\obj\Debug\net8.0\ref
 C:\Users\Admin\source\repos\WebQLDASinhVien\WebQLDASinhVien\obj\Debug\net8.0\WebQLDASinhVien.pdb
 C:\Users\Admin\source\repos\WebQLDASinhVien\WebQLDASinhVien\obj\Debug\net8.0\WebQLDASinhVien.genruntimeconfig.cache
 C:\Users\Admin\source\repos\WebQLDASinhVien\WebQLDASinhVien\obj\Debug\net8.0\ref\WebQLDASinhVien.dll
+C:\Users\Admin\source\repos\WebQLDASinhVien\WebQLDASinhVien\obj\Debug\net8.0\WebQLDASinhVien.sourcelink.json

@@ -1,0 +1,44 @@
+﻿@model WebQLDASinhVien.Models.Teacher
+
+@{
+    ViewData["Title"] = "Chi Tiết Giáo Viên";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="text-primary">Chi Tiết Giáo Viên</h1>
+
+<div class="card mt-4">
+    <div class="card-header bg-info text-white">
+        <h4>Thông Tin Giáo Viên</h4>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3 font-weight-bold">Họ và Tên</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.FullName)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Email</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Phòng Ban</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Department)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Số Điện Thoại</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.PhoneNumber)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Ngày Sinh</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.DateOfBirth)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Địa Chỉ</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Address)</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="mt-4">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">
+        <i class="fas fa-edit"></i> Chỉnh Sửa
+    </a>
+    <a asp-action="Index" class="btn btn-secondary">
+        <i class="fas fa-arrow-left"></i> Quay Lại Danh Sách
+    </a>
+</div>

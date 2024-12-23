@@ -1,0 +1,57 @@
+﻿@model WebQLDASinhVien.Models.Teacher
+
+@{
+    ViewData["Title"] = "Thêm giáo viên";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="text-center text-primary mb-4">Thêm Giáo Viên Mới</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+            <div class="form-group">
+                <label asp-for="FullName" class="font-weight-bold">Họ và tên</label>
+                <input asp-for="FullName" class="form-control" placeholder="Nhập họ và tên" />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email" class="font-weight-bold">Email</label>
+                <input asp-for="Email" type="email" class="form-control" placeholder="Nhập email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Department" class="font-weight-bold">Khoa</label>
+                <input asp-for="Department" class="form-control" placeholder="Nhập tên khoa" />
+                <span asp-validation-for="Department" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="font-weight-bold">Số điện thoại</label>
+                <input asp-for="PhoneNumber" type="tel" class="form-control" placeholder="Nhập số điện thoại" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DateOfBirth" class="font-weight-bold">Ngày sinh</label>
+                <input asp-for="DateOfBirth" type="date" class="form-control" />
+                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Address" class="font-weight-bold">Địa chỉ</label>
+                <input asp-for="Address" class="form-control" placeholder="Nhập địa chỉ" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <div class="form-group text-center">
+                <input type="submit" value="Lưu" class="btn btn-primary px-4" />
+                <a asp-action="Index" class="btn btn-secondary px-4 ml-2">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>

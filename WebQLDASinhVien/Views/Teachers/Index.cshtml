@@ -1,0 +1,77 @@
+﻿@model PaginatedList<WebQLDASinhVien.Models.Teacher>
+
+@{
+    ViewData["Title"] = "Danh sách giáo viên";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="text-center">Danh sách giáo viên</h1>
+
+<p>
+    <a class="btn btn-primary mb-3" asp-action="Create">Thêm giáo viên mới</a>
+</p>
+
+<form method="get" class="form-inline mb-3">
+    <input type="text" name="searchString" class="form-control mr-2" placeholder="Tìm kiếm giáo viên" value="@ViewData["CurrentFilter"]" />
+    <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+</form>
+
+<table class="table table-bordered table-striped text-center">
+    <thead class="thead-dark">
+        <tr>
+            <th>Họ và tên</th>
+            <th>Email</th>
+            <th>Bộ môn</th>
+            <th>Số điện thoại</th>
+            <th>Ngày sinh</th>
+            <th>Địa chỉ</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@(item.FullName ?? "Chưa cập nhật")</td>
+                <td>@(item.Email ?? "Chưa cập nhật")</td>
+                <td>@(item.Department ?? "Chưa cập nhật")</td>
+                <td>@(item.PhoneNumber ?? "Chưa cập nhật")</td>
+                <td>@item.DateOfBirth.ToString("dd/MM/yyyy")</td>
+                <td>@(item.Address ?? "Chưa cập nhật")</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">Sửa</a>
+                    <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.Id">Chi tiết</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<nav>
+    <ul class="pagination justify-content-center">
+        @if (Model.HasPreviousPage)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-route-pageNumber="@(Model.PageIndex - 1)">Trang trước</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled"><span class="page-link">Trang trước</span></li>
+        }
+
+        <li class="page-item disabled"><span class="page-link">Trang @Model.PageIndex / @Model.TotalPages</span></li>
+
+        @if (Model.HasNextPage)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-route-pageNumber="@(Model.PageIndex + 1)">Trang sau</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled"><span class="page-link">Trang sau</span></li>
+        }
+    </ul>
+</nav>

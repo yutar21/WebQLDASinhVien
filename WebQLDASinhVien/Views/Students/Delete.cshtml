@@ -1,0 +1,49 @@
+﻿@model WebQLDASinhVien.Models.Student
+
+@{
+    ViewData["Title"] = "Xóa Sinh Viên";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1>Xóa Sinh Viên</h1>
+
+<h3>Bạn có chắc chắn muốn xóa sinh viên này?</h3>
+
+<div class="card">
+    <div class="card-header bg-danger text-white">
+        <h4>Thông Tin Sinh Viên</h4>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3 font-weight-bold">Mã Sinh Viên</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.StudentCode)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Họ và Tên</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.FullName)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Ngày Sinh</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.DateOfBirth)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Địa Chỉ</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Address)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Email</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Số Điện Thoại</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.PhoneNumber)</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="mt-4">
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">
+            <i class="fas fa-trash-alt"></i> Xóa
+        </button>
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="fas fa-arrow-left"></i> Quay Lại Danh Sách
+        </a>
+    </form>
+</div>

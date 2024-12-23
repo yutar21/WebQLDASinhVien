@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Tạo tài khoản";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h5>Tạo tài khoản mới</h5>
+
+<form method="post" asp-action="CreateUser">
+    <div class="form-group">
+        <label>Họ và Tên</label>
+        <input type="text" name="fullName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input type="email" name="email" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Mật khẩu</label>
+        <input type="password" name="password" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Vai trò</label>
+        <select name="role" class="form-control" required>
+            <option value="Admin">Admin</option>
+            <option value="Teacher">Teacher</option>
+            <option value="Student">Student</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Tạo tài khoản</button>
+</form>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success mt-2">@TempData["Success"]</div>
+}
