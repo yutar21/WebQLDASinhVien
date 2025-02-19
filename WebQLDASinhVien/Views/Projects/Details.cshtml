@@ -1,61 +1,47 @@
 ﻿@model WebQLDASinhVien.Models.Project
 
 @{
-    ViewData["Title"] = "Details";
-    Layout = "~/Views/Shared/AdminLayout.cshtml";
+    ViewData["Title"] = "Chi Tiết Đồ Án";
 }
 
-<h1>Details</h1>
+<h2>@ViewData["Title"]</h2>
 
 <div>
-    <h4>Project</h4>
+    <h4>Thông tin đồ án</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Title)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Title)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Description)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Description)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.StartDate)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.StartDate)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.EndDate)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.EndDate)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Student)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Student.Id)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Teacher)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Teacher.Id)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.FilePath)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.FilePath)
+        <dt class="col-sm-2">Tiêu đề</dt>
+        <dd class="col-sm-10">@Model.Title</dd>
+
+        <dt class="col-sm-2">Mô tả</dt>
+        <dd class="col-sm-10">@Model.Description</dd>
+
+        <dt class="col-sm-2">Ngày bắt đầu</dt>
+        <dd class="col-sm-10">@Model.StartDate.ToShortDateString()</dd>
+
+        <dt class="col-sm-2">Ngày kết thúc</dt>
+        <dd class="col-sm-10">@Model.EndDate.ToShortDateString()</dd>
+
+        <dt class="col-sm-2">Sinh viên</dt>
+        <dd class="col-sm-10">@Model.Student?.FullName</dd>
+
+        <dt class="col-sm-2">Giáo viên</dt>
+        <dd class="col-sm-10">@Model.Teacher?.FullName</dd>
+
+        <dt class="col-sm-2">File Đồ Án</dt>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.FilePath))
+            {
+                <a href="@Model.FilePath" target="_blank">Xem file</a>
+            }
+            else
+            {
+                <span>Không có file</span>
+            }
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Chỉnh sửa</a> |
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
 </div>

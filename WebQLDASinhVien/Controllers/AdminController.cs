@@ -9,7 +9,7 @@ namespace WebQLDASinhVien.Controllers
 
     namespace WebQLDASinhVien.Controllers
     {
-        [Authorize(Roles = "Admin")] // Chỉ Admin mới được truy cập
+       // [Authorize(Roles = "Admin")] // Chỉ Admin mới được truy cập
         public class AdminController : Controller
         {
             private readonly UserManager<ApplicationUser> _userManager;

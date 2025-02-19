@@ -1633,6 +1633,910 @@
       "PackagePath": "staticwebassets\\style.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\accordions.css",
+      "PackagePath": "staticwebassets\\test\\css\\accordions.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\alerts.css",
+      "PackagePath": "staticwebassets\\test\\css\\alerts.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\animate.css",
+      "PackagePath": "staticwebassets\\test\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\test\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\buttons.css",
+      "PackagePath": "staticwebassets\\test\\css\\buttons.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\c3\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\calendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\calendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\calendar\\fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\calendar\\fullcalendar.print.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\chosen\\bootstrap-chosen.css",
+      "PackagePath": "staticwebassets\\test\\css\\chosen\\bootstrap-chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\test\\css\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\code-editor\\ambiance.css",
+      "PackagePath": "staticwebassets\\test\\css\\code-editor\\ambiance.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\code-editor\\codemirror.css",
+      "PackagePath": "staticwebassets\\test\\css\\code-editor\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\colorpicker\\colorpicker.css",
+      "PackagePath": "staticwebassets\\test\\css\\colorpicker\\colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\cropper\\cropper.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\cropper\\cropper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\data-table\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\test\\css\\data-table\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\data-table\\bootstrap-table.css",
+      "PackagePath": "staticwebassets\\test\\css\\data-table\\bootstrap-table.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\datapicker\\colorpicker.css",
+      "PackagePath": "staticwebassets\\test\\css\\datapicker\\colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\datapicker\\datepicker3.css",
+      "PackagePath": "staticwebassets\\test\\css\\datapicker\\datepicker3.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\test\\css\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\duallistbox\\bootstrap-duallistbox.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\duallistbox\\bootstrap-duallistbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\editor\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\test\\css\\editor\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\editor\\datetimepicker.css",
+      "PackagePath": "staticwebassets\\test\\css\\editor\\datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\editor\\select2.css",
+      "PackagePath": "staticwebassets\\test\\css\\editor\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\editor\\x-editor-style.css",
+      "PackagePath": "staticwebassets\\test\\css\\editor\\x-editor-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\educate-custon-icon.css",
+      "PackagePath": "staticwebassets\\test\\css\\educate-custon-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\form.css",
+      "PackagePath": "staticwebassets\\test\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\form\\all-type-forms.css",
+      "PackagePath": "staticwebassets\\test\\css\\form\\all-type-forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\form\\themesaller-forms.css",
+      "PackagePath": "staticwebassets\\test\\css\\form\\themesaller-forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\ionRangeSlider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\test\\css\\ionRangeSlider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\ionRangeSlider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\test\\css\\ionRangeSlider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\ionRangeSlider\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\test\\css\\ionRangeSlider\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\main.css",
+      "PackagePath": "staticwebassets\\test\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\metisMenu\\metisMenu-vertical.css",
+      "PackagePath": "staticwebassets\\test\\css\\metisMenu\\metisMenu-vertical.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\metisMenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\metisMenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\metisMenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\test\\css\\metisMenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\modals.css",
+      "PackagePath": "staticwebassets\\test\\css\\modals.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\morrisjs\\morris.css",
+      "PackagePath": "staticwebassets\\test\\css\\morrisjs\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\test\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\notifications\\Lobibox.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\notifications\\Lobibox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\notifications\\notifications.css",
+      "PackagePath": "staticwebassets\\test\\css\\notifications\\notifications.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\test\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\test\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\test\\css\\owl.transitions.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\preloader\\preloader-style.css",
+      "PackagePath": "staticwebassets\\test\\css\\preloader\\preloader-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\test\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\scrollbar\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\scrollbar\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\summernote\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\test\\css\\summernote\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\summernote\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\test\\css\\summernote\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\summernote\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\test\\css\\summernote\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\test\\css\\summernote\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\tabs.css",
+      "PackagePath": "staticwebassets\\test\\css\\tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\test\\css\\touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\tree-viewer\\32px.png",
+      "PackagePath": "staticwebassets\\test\\css\\tree-viewer\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\tree-viewer\\throbber.gif",
+      "PackagePath": "staticwebassets\\test\\css\\tree-viewer\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\css\\tree-viewer\\tree-viewer.css",
+      "PackagePath": "staticwebassets\\test\\css\\tree-viewer\\tree-viewer.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\test\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\educate-icon.svg",
+      "PackagePath": "staticwebassets\\test\\fonts\\educate-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\educate-icon.ttf",
+      "PackagePath": "staticwebassets\\test\\fonts\\educate-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\educate-icon.woff",
+      "PackagePath": "staticwebassets\\test\\fonts\\educate-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\test\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\test\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\test\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\test\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\test\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\test\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\test\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\test\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\test\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\test\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\blog-details\\1.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\blog-details\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\clear.png",
+      "PackagePath": "staticwebassets\\test\\img\\clear.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\contact\\1.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\contact\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\contact\\2.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\contact\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\contact\\3.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\contact\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\contact\\4.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\contact\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\courses\\1.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\courses\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\courses\\2.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\courses\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\courses\\3.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\courses\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\cropper\\1.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\cropper\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\test\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\green1.png",
+      "PackagePath": "staticwebassets\\test\\img\\green1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\test\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\test\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\logo\\logosn.png",
+      "PackagePath": "staticwebassets\\test\\img\\logo\\logosn.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\notification\\1.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\notification\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\notification\\2.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\notification\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\notification\\3.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\notification\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\notification\\4.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\notification\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\notification\\5.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\notification\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\notification\\6.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\notification\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\product\\book-1.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\product\\book-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\product\\book-2.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\product\\book-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\product\\book-3.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\product\\book-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\product\\book-4.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\product\\book-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\product\\pro4.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\product\\pro4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\product\\profile-bg.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\product\\profile-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\profile\\1.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\profile\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\student\\1.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\student\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\student\\2.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\student\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\student\\3.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\student\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\img\\student\\4.jpg",
+      "PackagePath": "staticwebassets\\test\\img\\student\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\c3-charts\\c3-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\c3-charts\\c3-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\c3-charts\\c3.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\c3-charts\\c3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\c3-charts\\d3.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\c3-charts\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\calendar\\fullcalendar-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\calendar\\fullcalendar-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\card.js",
+      "PackagePath": "staticwebassets\\test\\js\\card.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\chart\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\chart\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\chart\\peity-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\chart\\peity-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\charts\\Chart.js",
+      "PackagePath": "staticwebassets\\test\\js\\charts\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\charts\\area-chart.js",
+      "PackagePath": "staticwebassets\\test\\js\\charts\\area-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\charts\\bar-chart.js",
+      "PackagePath": "staticwebassets\\test\\js\\charts\\bar-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\charts\\line-chart.js",
+      "PackagePath": "staticwebassets\\test\\js\\charts\\line-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\charts\\rounded-chart.js",
+      "PackagePath": "staticwebassets\\test\\js\\charts\\rounded-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\chosen\\chosen-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\chosen\\chosen-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\test\\js\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\code-editor\\code-editor-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\code-editor\\code-editor-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\code-editor\\code-editor.js",
+      "PackagePath": "staticwebassets\\test\\js\\code-editor\\code-editor.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\code-editor\\codemirror.js",
+      "PackagePath": "staticwebassets\\test\\js\\code-editor\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\colorpicker\\color-picker-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\colorpicker\\color-picker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\colorpicker\\jquery.spectrum.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\colorpicker\\jquery.spectrum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\counterup\\counterup-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\counterup\\counterup-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\counterup\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\counterup\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\cropper\\cropper-actice.js",
+      "PackagePath": "staticwebassets\\test\\js\\cropper\\cropper-actice.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\cropper\\cropper.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\cropper\\cropper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-map\\d3.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-map\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-map\\data-maps-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-map\\data-maps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-map\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-map\\datamaps.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-map\\topojson.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-map\\topojson.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-table\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-table\\bootstrap-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-table\\bootstrap-table-editable.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-table\\bootstrap-table-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-table\\bootstrap-table-export.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-table\\bootstrap-table-export.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-table\\bootstrap-table-resizable.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-table\\bootstrap-table-resizable.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-table\\bootstrap-table.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-table\\bootstrap-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-table\\colResizable-1.5.source.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-table\\colResizable-1.5.source.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-table\\data-table-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-table\\data-table-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\data-table\\tableExport.js",
+      "PackagePath": "staticwebassets\\test\\js\\data-table\\tableExport.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\datapicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\test\\js\\datapicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\datapicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\datapicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\datapicker\\datepicker-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\datapicker\\datepicker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\datepicker\\datepicker-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\datepicker\\datepicker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\datepicker\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\datepicker\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\test\\js\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\duallistbox\\duallistbox.active.js",
+      "PackagePath": "staticwebassets\\test\\js\\duallistbox\\duallistbox.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\duallistbox\\jquery.bootstrap-duallistbox.js",
+      "PackagePath": "staticwebassets\\test\\js\\duallistbox\\jquery.bootstrap-duallistbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\e-payment.js",
+      "PackagePath": "staticwebassets\\test\\js\\e-payment.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\editable\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\test\\js\\editable\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\editable\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\test\\js\\editable\\bootstrap-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\editable\\jquery.mockjax.js",
+      "PackagePath": "staticwebassets\\test\\js\\editable\\jquery.mockjax.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\editable\\mock-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\editable\\mock-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\editable\\moment.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\editable\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\editable\\select2.js",
+      "PackagePath": "staticwebassets\\test\\js\\editable\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\editable\\xediable-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\editable\\xediable-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\form-validation\\form-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\form-validation\\form-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\form-validation\\jquery.form.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\form-validation\\jquery.form.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\form-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\form-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\google.maps\\google.maps-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\google.maps\\google.maps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\icheck\\icheck-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\icheck\\icheck-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\icheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\icheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\input-mask\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\input-mask\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\ionRangeSlider\\ion.rangeSlider.active.js",
+      "PackagePath": "staticwebassets\\test\\js\\ionRangeSlider\\ion.rangeSlider.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\ionRangeSlider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\ionRangeSlider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\jquery-price-slider.js",
+      "PackagePath": "staticwebassets\\test\\js\\jquery-price-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\test\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\jquery.payform.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\jquery.payform.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\test\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\test\\js\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\knob\\knob-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\knob\\knob-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\main.js",
+      "PackagePath": "staticwebassets\\test\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\masking-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\masking-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\metisMenu\\metisMenu-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\metisMenu\\metisMenu-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\metisMenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\metisMenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\metisMenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\test\\js\\metisMenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\morrisjs\\home3-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\morrisjs\\home3-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\morrisjs\\morris-active-pro.js",
+      "PackagePath": "staticwebassets\\test\\js\\morrisjs\\morris-active-pro.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\morrisjs\\morris-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\morrisjs\\morris-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\morrisjs\\morris.js",
+      "PackagePath": "staticwebassets\\test\\js\\morrisjs\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\morrisjs\\raphael-min.js",
+      "PackagePath": "staticwebassets\\test\\js\\morrisjs\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\multiple-email\\multiple-email-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\multiple-email\\multiple-email-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\notifications\\Lobibox.js",
+      "PackagePath": "staticwebassets\\test\\js\\notifications\\Lobibox.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\notifications\\notification-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\notifications\\notification-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\password-meter\\password-meter-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\password-meter\\password-meter-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\password-meter\\pwstrength-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\password-meter\\pwstrength-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\password-meter\\zxcvbn.js",
+      "PackagePath": "staticwebassets\\test\\js\\password-meter\\zxcvbn.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\pdf\\jquery.media.js",
+      "PackagePath": "staticwebassets\\test\\js\\pdf\\jquery.media.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\pdf\\pdf-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\pdf\\pdf-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\peity\\peity-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\peity\\peity-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\test\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\rangle-slider\\jquery-ui-touch-punch.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\rangle-slider\\jquery-ui-touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\rangle-slider\\rangle-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\rangle-slider\\rangle-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\scrollbar\\mCustomScrollbar-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\scrollbar\\mCustomScrollbar-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\select2\\select2-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\select2\\select2-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\sparkline\\jquery.charts-sparkline.js",
+      "PackagePath": "staticwebassets\\test\\js\\sparkline\\jquery.charts-sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\sparkline\\sparkline-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\sparkline\\sparkline-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\summernote\\summernote-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\summernote\\summernote-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\tab.js",
+      "PackagePath": "staticwebassets\\test\\js\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\tawk-chat.js",
+      "PackagePath": "staticwebassets\\test\\js\\tawk-chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\touchspin\\touchspin-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\touchspin\\touchspin-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\tree-line\\jstree.active.js",
+      "PackagePath": "staticwebassets\\test\\js\\tree-line\\jstree.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\tree-line\\jstree.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\tree-line\\jstree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\vendor\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\test\\js\\vendor\\modernizr-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\wizard\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\test\\js\\wizard\\jquery.steps.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\wizard\\steps-active.js",
+      "PackagePath": "staticwebassets\\test\\js\\wizard\\steps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\test\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\pdf\\mamunur.pdf",
+      "PackagePath": "staticwebassets\\test\\pdf\\mamunur.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebQLDASinhVien\\WebQLDASinhVien\\wwwroot\\test\\style.css",
+      "PackagePath": "staticwebassets\\test\\style.css"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebQLDASinhVien.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
