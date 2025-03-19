@@ -1,40 +1,23 @@
 ﻿@model WebQLDASinhVien.Models.Project
 
 @{
-    ViewData["Title"] = "Xóa Đồ Án";
+    ViewData["Title"] = "Xóa đồ án";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
 }
 
-<h2>@ViewData["Title"]</h2>
-
-<h3>Bạn có chắc chắn muốn xóa đồ án này không?</h3>
+<h2>Xác nhận xóa đồ án</h2>
 
 <div>
-    <h4>Thông tin đồ án</h4>
-    <hr />
-    <dl class="row">
-        <dt class="col-sm-2">Tiêu đề</dt>
-        <dd class="col-sm-10">@Model.Title</dd>
-
-        <dt class="col-sm-2">Mô tả</dt>
-        <dd class="col-sm-10">@Model.Description</dd>
-
-        <dt class="col-sm-2">Ngày bắt đầu</dt>
-        <dd class="col-sm-10">@Model.StartDate.ToShortDateString()</dd>
-
-        <dt class="col-sm-2">Ngày kết thúc</dt>
-        <dd class="col-sm-10">@Model.EndDate.ToShortDateString()</dd>
-
-        <dt class="col-sm-2">Sinh viên</dt>
-        <dd class="col-sm-10">@Model.Student?.FullName</dd>
-
-        <dt class="col-sm-2">Giáo viên</dt>
-        <dd class="col-sm-10">@Model.Teacher?.FullName</dd>
-    </dl>
-
-    <form asp-action="Delete" method="post">
-        <!-- Vì trong controller, action POST Delete đã được đánh dấu bằng [ActionName("Delete")] -->
-        <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Xóa" class="btn btn-danger" /> |
-        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
-    </form>
+    <h4>Đồ án: @Model.Title</h4>
+    <p>Sinh viên: @Model.Student?.FullName</p>
+    <p>Giáo viên: @Model.Teacher?.FullName</p>
+    <p>Tiến độ: @Model.Progress %</p>
+    <p>Phản hồi: @(string.IsNullOrEmpty(Model.Feedback) ? "Chưa có" : Model.Feedback)</p>
 </div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa đồ án này không?');">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

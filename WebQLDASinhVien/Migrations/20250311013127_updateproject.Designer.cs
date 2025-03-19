@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebQLDASinhVien.Data;
 
@@ -11,9 +12,11 @@ using WebQLDASinhVien.Data;
 namespace WebQLDASinhVien.Migrations
 {
     [DbContext(typeof(WebQLDASinhVienContext))]
-    partial class WebQLDASinhVienContextModelSnapshot : ModelSnapshot
+    [Migration("20250311013127_updateproject")]
+    partial class updateproject
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -1,0 +1,38 @@
+﻿@model WebQLDASinhVien.Models.Project
+
+@{
+    ViewData["Title"] = "Cập nhật đồ án của tôi";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Cập nhật đồ án của tôi</h2>
+
+<form asp-action="Edit" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" readonly></textarea>
+    </div>
+    <div class="form-group">
+        <label>Upload file mới (nếu cần cập nhật)</label>
+        <input type="file" name="fileUpload" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Hoặc nhập link Google Docs mới</label>
+        <input type="url" name="googleDocLink" class="form-control" placeholder="https://docs.google.com/..." />
+    </div>
+    <div class="form-group">
+        <label>Tiến độ (%)</label>
+        <input type="number" asp-for="Progress" class="form-control" min="0" max="100" />
+    </div>
+    <div class="form-group">
+        <label>Phản hồi (những khó khăn hoặc thắc mắc)</label>
+        <textarea asp-for="Feedback" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+</form>

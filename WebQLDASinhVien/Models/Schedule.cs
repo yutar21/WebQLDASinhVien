@@ -3,9 +3,9 @@
     public class Schedule
     {
         public int Id { get; set; } // Khóa chính
-        public DateTime Date { get; set; } // Ngày chấm đồ án
-        public TimeSpan StartTime { get; set; } // Giờ bắt đầu
-        public TimeSpan EndTime { get; set; } // Giờ kết thúc
+        public DateTime ScheduledDate { get; set; } // Ngày chấm bảo vệ
+        public string TimeSlot { get; set; }         // Thời gian (ví dụ: "09:00 - 11:00")
+        public string Venue { get; set; }            // Phòng, địa điểm chấm
 
         // Liên kết với đồ án
         public int ProjectId { get; set; }

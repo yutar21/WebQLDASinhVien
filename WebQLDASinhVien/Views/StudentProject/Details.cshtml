@@ -1,0 +1,31 @@
+﻿@model WebQLDASinhVien.Models.Project
+
+@{
+    ViewData["Title"] = "Chi tiết đồ án của tôi";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Chi tiết đồ án của tôi</h2>
+
+<div>
+    <h3>@Model.Title</h3>
+    <p><strong>Mô tả:</strong> @Model.Description</p>
+    <p><strong>Thời gian:</strong> @Model.StartDate.ToShortDateString() - @Model.EndDate.ToShortDateString()</p>
+    <p><strong>Tiến độ:</strong> @Model.Progress %</p>
+    <p><strong>Phản hồi:</strong> @(string.IsNullOrEmpty(Model.Feedback) ? "Chưa có phản hồi" : Model.Feedback)</p>
+    <p>
+        <strong>File/Link:</strong>
+        @if (!string.IsNullOrEmpty(Model.FilePath))
+        {
+            <a href="@Model.FilePath" target="_blank">Xem file</a>
+        }
+        else
+        {
+            <span>Không có file</span>
+        }
+    </p>
+    <p>
+        <a class="btn btn-primary" asp-action="Edit">Cập nhật</a>
+        <a class="btn btn-secondary" asp-action="Index">Quay lại</a>
+    </p>
+</div>
